@@ -1,0 +1,18 @@
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\bin\Debug\Setupper.exe
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\bin\Debug\Setupper.pdb
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\bin\Debug\Setupper.xml
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.Form1.resources
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.Resources.resources
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.vbproj.GenerateResource.Cache
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.exe
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.xml
+C:\Users\luxenburgerm\documents\visual studio 2010\Projects\Setupper\Setupper\obj\x86\Debug\Setupper.pdb
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.exe
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.xml
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.pdb
+Q:\Luxenburger\Setupper\Setupper\bin\Debug\Setupper.exe
+Q:\Luxenburger\Setupper\Setupper\bin\Debug\Setupper.pdb
+Q:\Luxenburger\Setupper\Setupper\bin\Debug\Setupper.xml
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.Form1.resources
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.Resources.resources
+Q:\Luxenburger\Setupper\Setupper\obj\x86\Debug\Setupper.vbproj.GenerateResource.Cache
